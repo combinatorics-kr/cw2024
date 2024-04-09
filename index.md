@@ -1,5 +1,7 @@
+---
+title: 2024 Combinatorics Workshop
+---
 # 2024 조합론 학술대회 
-
 [English](/en/)
 
 [조합론 학술대회](https://www.combinatorics.kr/workshop/combinatorics-workshop)는 국내 조합론 및 관련 분야 연구자들이 모이는 연례 학술 행사입니다. 2004년 연세대에서 처음 개최되었으며 2013년부터 대한수학회 이산수학분과의 행사로 열리고 있습니다. 제21회 행사인 2024 조합론 학술대회는 2024년 8월 28일부터 8월 30일까지 충북대학교에서 개최될 예정입니다.
@@ -10,10 +12,10 @@
 ## 초청연사 
 
 - 최수영 (아주대학교)
-- 김동현 (서울대학교)
-- 김장수 (성균관대학교)
+- [김동현](https://donghyunkim8.wixsite.com/dhkim) (서울대학교)
+- [김장수](https://jangsookim.github.io/) (성균관대학교)
 - 김정한 (고등과학원)
-- 김민기 (광주과학기술원)
+- [김민기](https://sites.google.com/view/minkikim/home) (광주과학기술원)
 
 ## 일반 강연 (Contributed Talks)
 
@@ -33,7 +35,7 @@
 
 ## 숙박 
 
-학회 지정 호텔: 청주 글로스터 호텔 (Gloucester Hotel Cheongju)
+학회 지정 호텔: [청주 글로스터 호텔 (Gloucester Hotel Cheongju)](http://www.gloucester.co.kr/)]
 
 학회 지정 호텔은 학교에서 4km 정도 거리에 있는 글로스터 호텔(http://www.gloucester.co.kr/)입니다. 일반참가자들의 숙박은 본인 부담이지만, 등록할 때 요청하시면 방을 예약해 드릴 수 있습니다.
 
@@ -41,14 +43,14 @@
 
 ## 학회 장소 
 
-충청북도 청주시 충북대 자연대6호관 (Bldg. S1-6), Room 107
+충청북도 청주시 충북대 [자연대6호관 (Bldg. S1-6)](https://place.map.kakao.com/1879408486), Room 107
 
 
 ## 조직위원 
 - 고두원 (충북대)
-- 이은정 (충북대)
-- 엄상일 (IBS 이산수학그룹 / KAIST)
-- 류미수 (충북대)
+- [이은정](https://sites.google.com/view/eunjeonglee/) (충북대)
+- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹 / KAIST)
+- [류미수](https://meesue.github.io/) (충북대)
 
 ## 자문위
 
@@ -56,6 +58,4 @@
 
 ## 후원 
 
-- IBS 이산수학그룹 
-- 한국연구재단
-- 대한수학회 
+<div id="logo"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /><img src="/assets/kms.png" alt="대한수학회" /></div>

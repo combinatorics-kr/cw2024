@@ -15,14 +15,6 @@ div#logo img {
     padding-right: 30px;
     vertical-align: middle;
 }
-div#logo img#postech {
-    width: 200px;
-    padding-right: 0px;
-    vertical-align: middle;
-}
-div#logo img#kaist {
-    width: 180px;
-    vertical-align: middle;
-}
+
 
 @import "{{ site.theme }}";

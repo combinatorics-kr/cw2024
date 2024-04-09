@@ -63,5 +63,4 @@ Committee of Discrete Mathematics, The Korean Mathematical Society (Chair: Sang-
 
 ## Sponsors
 
-- IBS Discrete Mathematics Group
-- Korean Mathematical Society
+<div id="logo"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /><img src="/assets/kms.png" alt="대한수학회" /></div>
