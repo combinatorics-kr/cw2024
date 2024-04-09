@@ -58,4 +58,4 @@ title: 2024 Combinatorics Workshop
 
 ## 후원 
 
-<div id="logo"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /><img src="/assets/kms.png" alt="대한수학회" /></div>
+<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a></div>
