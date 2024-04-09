@@ -35,7 +35,7 @@ title: 2024 Combinatorics Workshop
 
 ## 숙박 
 
-학회 지정 호텔: [청주 글로스터 호텔 (Gloucester Hotel Cheongju)](http://www.gloucester.co.kr/)]
+학회 지정 호텔: [청주 글로스터 호텔 (Gloucester Hotel Cheongju)](http://www.gloucester.co.kr/)
 
 학회 지정 호텔은 학교에서 4km 정도 거리에 있는 글로스터 호텔(http://www.gloucester.co.kr/)입니다. 일반참가자들의 숙박은 본인 부담이지만, 등록할 때 요청하시면 방을 예약해 드릴 수 있습니다.
 

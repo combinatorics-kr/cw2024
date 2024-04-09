@@ -13,10 +13,10 @@ Using English is recommended if there are non-Korean participants in the audienc
 ## Invited Speakers
 
 - Suyoung Choi (최수영), Ajou University (아주대)
-- Donghyun Kim (김동현), SNU (서울대학교)
-- Jang Soo Kim (김장수), SKKU (성균관대학교)
+- [Donghyun Kim (김동현)](https://donghyunkim8.wixsite.com/dhkim), SNU (서울대학교)
+- [Jang Soo Kim (김장수)](https://jangsookim.github.io/), SKKU (성균관대학교)
 - Jeong Han Kim (김정한), KIAS (고등과학원)
-- Minki Kim (김민기), GIST (광주과학기술원)
+- [Minki Kim (김민기)](https://sites.google.com/view/minkikim/home), GIST (광주과학기술원)
 
 ## Contributed Talks
 
@@ -35,7 +35,7 @@ The registration deadline: June 30, 2024.
 
 ## Accommodation
 
-Gloucester Hotel Cheongju (글로스터 호텔)
+[Gloucester Hotel Cheongju (글로스터 호텔)](http://www.gloucester.co.kr/)
 
 Approximately 4 km from the hotel to the venue. General participants are responsible for their own accommodation expenses, but if requested at the time of registration, we can reserve a room for you.
 
@@ -44,7 +44,7 @@ If you need the support for the accommodation, please let us know.
 
 ## Venue
 
-자연대6호관 (Bldg. S1-6), Room 107
+[자연대6호관 (Bldg. S1-6)](https://place.map.kakao.com/1879408486), Room 107
 
 Chungbuk National University (충북대학교)
 
@@ -53,9 +53,9 @@ Cheongju, Korea
 ## Organizing Committee
 
 Doowon Koh (고두원), Chungbuk National University
-Eunjeong Lee (이은정), Chungbuk National University
-Sang-il Oum (엄상일), IBS Discrete Mathematics Group / KAIST
-Meesue Yoo (류미수), Chungbuk National University
+[Eunjeong Lee (이은정)](https://sites.google.com/view/eunjeonglee/), Chungbuk National University
+[Sang-il Oum (엄상일)](https://dimag.ibs.re.kr/home/sangil/), IBS Discrete Mathematics Group / KAIST
+[Meesue Yoo (류미수)](https://meesue.github.io/), Chungbuk National University
 
 ## Advisory Committee
 
