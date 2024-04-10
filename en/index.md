@@ -12,7 +12,7 @@ Using English is recommended if there are non-Korean participants in the audienc
 
 ## Invited Speakers
 
-- Suyoung Choi (최수영), Ajou University (아주대)
+- [Suyoung Choi (최수영)](http://acmi.ajou.ac.kr/~schoi/), Ajou University (아주대)
 - [Donghyun Kim (김동현)](https://donghyunkim8.wixsite.com/dhkim), SNU (서울대학교)
 - [Jang Soo Kim (김장수)](https://jangsookim.github.io/), SKKU (성균관대학교)
 - Jeong Han Kim (김정한), KIAS (고등과학원)
@@ -52,10 +52,10 @@ Cheongju, Korea
 
 ## Organizing Committee
 
-Doowon Koh (고두원), Chungbuk National University
-[Eunjeong Lee (이은정)](https://sites.google.com/view/eunjeonglee/), Chungbuk National University
-[Sang-il Oum (엄상일)](https://dimag.ibs.re.kr/home/sangil/), IBS Discrete Mathematics Group / KAIST
-[Meesue Yoo (류미수)](https://meesue.github.io/), Chungbuk National University
+- Doowon Koh (고두원), Chungbuk National University
+- [Eunjeong Lee (이은정)](https://sites.google.com/view/eunjeonglee/), Chungbuk National University
+- [Sang-il Oum (엄상일)](https://dimag.ibs.re.kr/home/sangil/), IBS Discrete Mathematics Group / KAIST
+- [Meesue Yoo (류미수)](https://meesue.github.io/), Chungbuk National University
 
 ## Advisory Committee
 

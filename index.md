@@ -11,7 +11,7 @@ title: 2024 Combinatorics Workshop
 
 ## 초청연사 
 
-- 최수영 (아주대학교)
+- [최수영](http://acmi.ajou.ac.kr/~schoi/) (아주대학교)
 - [김동현](https://donghyunkim8.wixsite.com/dhkim) (서울대학교)
 - [김장수](https://jangsookim.github.io/) (성균관대학교)
 - 김정한 (고등과학원)
