@@ -39,7 +39,7 @@ The registration deadline: June 30, 2024.
 
 Approximately 4 km from the hotel to the venue. General participants are responsible for their own accommodation expenses, but if requested at the time of registration, we can reserve a room for you.
 
-We provide all the meals during the entire workshop.
+We provide lunches and dinners during the entire workshop.
 If you need the support for the accommodation, please let us know. 
 
 ## Venue
