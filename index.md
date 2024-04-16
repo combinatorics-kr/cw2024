@@ -58,4 +58,8 @@ title: 2024 Combinatorics Workshop
 
 ## 후원 
 
-<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a></div>
+<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a>
+<a href="https://www.nrf.re.kr/index"><img src="/assets/NRF-logo.png" alt="한국연구재단" /></a>
+<a href="http://iiam.cbnu.ac.kr"><img src="/assets/IIM_logo.png" alt="산업응용수학연구소" /></a>
+</div>
+
