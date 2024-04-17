@@ -20,7 +20,7 @@ Using English is recommended if there are non-Korean participants in the audienc
 
 ## Contributed Talks
 
-If you are interested in giving a contributed talk at the workshop, please submit the abstract by June 30, 2024 at the following link. Each contributed talk will be 20-25 minutes long.
+If you are interested in giving a contributed talk at the workshop, please submit the abstract by June 20, 2024 at the following link. Each contributed talk will be 20-25 minutes long.
 
 [Submit contributed talks](https://indico.ibs.re.kr/event/650/abstracts/)
 
@@ -31,13 +31,18 @@ You may need to create an account on IBS indico in order to submit an abstract.
 
 [Registration](https://indico.ibs.re.kr/event/650/registrations/)
 
-The registration deadline: June 30, 2024. 
+The registration deadline: July 10, 2024. 
 
 ## Accommodation
 
 [Gloucester Hotel Cheongju (글로스터 호텔)](http://www.gloucester.co.kr/)
 
 Approximately 4 km from the hotel to the venue. General participants are responsible for their own accommodation expenses, but if requested at the time of registration, we can reserve a room for you.
+
+- single room(breakfast not included) : 110,000 (won)
+- single room(breakfast included) : 125,000 (won)
+- double room(breakfast not included) : 55,000 (won)
+- double room(breakfast included) : 70,000 (won)
 
 We provide lunches and dinners during the entire workshop.
 If you need the support for the accommodation, please let us know. 
