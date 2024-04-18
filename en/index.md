@@ -39,8 +39,8 @@ The registration deadline: July 10, 2024.
 
 Approximately 4 km from the hotel to the venue. General participants are responsible for their own accommodation expenses, but if requested at the time of registration, we can reserve a room for you.
 
-- single room(breakfast included): 125,000 (won)
-- double room(shared, breakfast included) : 70,000 (won)
+- single room(breakfast included): 125,000 KRW
+- double room(shared, breakfast included) : 70,000 KRW per person.
 
 We provide lunches and dinners during the entire workshop.
 If you need the support for the accommodation, please let us know. 
@@ -52,6 +52,8 @@ If you need the support for the accommodation, please let us know.
 Chungbuk National University (충북대학교)
 
 Cheongju, Korea
+
+- Parking ticket: 1,000 KRW per day.
 
 ## Organizing Committee
 
