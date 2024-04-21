@@ -62,13 +62,13 @@ layout: ko
 
 ## 주최 
 
-- 충북대학교 수학과 
-- IBS 이산수학그룹 
+- [충북대학교 수학과](https://math.cbnu.ac.kr/)
+- [IBS 이산수학그룹](https://dimag.ibs.re.kr/)
   
 ## 후원 
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
-<a href="http://iiam.cbnu.ac.kr"><img src="/assets/IIM_logo.png" alt="산업응용수학연구소" /></a>
+<a href="http://iiam.cbnu.ac.kr"><img src="/assets/IIM_logo.png" alt="충북대학교 산업응용수학연구소" /></a>
 <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a>
 <a href="https://www.nrf.re.kr/index"><img src="/assets/NRF_logo_2.png" alt="한국연구재단" /></a>
 <a href="https://www.postf.org/"><img src="/assets/POSCO_CI.jpg" alt="포스코청암재단" /></a>
