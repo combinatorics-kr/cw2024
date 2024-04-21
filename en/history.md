@@ -20,4 +20,7 @@ layout: en
 - Date: {{ item.dates }}, {{item.year}}
 - Venue: {{ item.venue }}, {{ item.city}}
 - Host: {{item.host}}
+{%- if item.organizer %}
+- (Local) Organizers: {{item.organizer}}
+{% endif -%}
 {% endfor %}

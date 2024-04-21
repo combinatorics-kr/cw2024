@@ -8,8 +8,11 @@ layout: ko
 {% assign titleko=item.year | append: " 조합론 학술대회" %}
 
 ## {{ item.n }}회: [{{ item.titleko | default: titleko}}]({{item.url}})
-- English name: {{ item.title | default: title}}
+- 영문 이름: {{ item.title | default: title}}
 - 날짜: {{ item.dates }}, {{item.year}}
 - 장소: {{ item.venue }}, {{ item.city}}
 - Host: {{item.host}}
+{%- if item.organizerko %}
+- 주관/운영위원: {{item.organizerko}}
+{% endif -%}
 {% endfor %}
