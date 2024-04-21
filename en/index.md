@@ -1,6 +1,9 @@
+---
+layout: en
+---
 # 2024 Combinatorics Workshop
 
-[한국어](/)
+<!-- [한국어](/) -->
 
 [Combinatorics Workshop (조합론 학술대회)](https://www.combinatorics.kr/workshop/combinatorics-workshop) is an annual conference for researchers in combinatorics and related areas in Korea.
 It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013, this workshop has been advised by the committee of discrete mathematics of the Korean Mathematical Society. This year, it will occur at Chungbuk National University in Cheongju from August 28 to August 30, 2024.
@@ -66,11 +69,16 @@ Cheongju, Korea
 
 Committee of Discrete Mathematics, The Korean Mathematical Society (Chair: Sang-il Oum)
 
+## Hosts
+
+- Chungbuk National University
+- IBS Discrete Mathematics Group
+
 ## Sponsors
 
-
-<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a>
-<a href="https://www.nrf.re.kr/index"><img src="/assets/NRF_logo_2.png" alt="한국연구재단" /></a>
-  <a href="https://www.postf.org/"><img src="/assets/POSCO_CI.jpg" alt="포스코청암재단" /></a>
+<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
 <a href="http://iiam.cbnu.ac.kr"><img src="/assets/IIM_logo.png" alt="산업응용수학연구소" /></a>
+<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a>
+<a href="https://www.nrf.re.kr/index"><img src="/assets/NRF_logo_2.png" alt="한국연구재단" /></a>
+<a href="https://www.postf.org/"><img src="/assets/POSCO_CI.jpg" alt="포스코청암재단" /></a>
 </div>

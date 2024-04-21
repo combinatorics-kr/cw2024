@@ -1,8 +1,9 @@
 ---
 title: 2024 Combinatorics Workshop
+layout: ko
 ---
 # 2024 조합론 학술대회 
-[English](/en/)
+<!-- [English](/en/) -->
 
 [조합론 학술대회](https://www.combinatorics.kr/workshop/combinatorics-workshop)는 국내 조합론 및 관련 분야 연구자들이 모이는 연례 학술 행사입니다. 2004년 연세대에서 처음 개최되었으며 2013년부터 대한수학회 이산수학분과의 행사로 열리고 있습니다. 제21회 행사인 2024 조합론 학술대회는 2024년 8월 28일부터 8월 30일까지 충북대학교에서 개최될 예정입니다.
 
@@ -59,11 +60,17 @@ title: 2024 Combinatorics Workshop
 
 대한수학회 이산수학분과 (위원장: 엄상일)
 
+## 주최 
+
+- 충북대학교 수학과 
+- IBS 이산수학그룹 
+  
 ## 후원 
 
-<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a>
-<a href="https://www.nrf.re.kr/index"><img src="/assets/NRF_logo_2.png" alt="한국연구재단" /></a>
-  <a href="https://www.postf.org/"><img src="/assets/POSCO_CI.jpg" alt="포스코청암재단" /></a>
+<div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
 <a href="http://iiam.cbnu.ac.kr"><img src="/assets/IIM_logo.png" alt="산업응용수학연구소" /></a>
+<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="대한수학회" /></a>
+<a href="https://www.nrf.re.kr/index"><img src="/assets/NRF_logo_2.png" alt="한국연구재단" /></a>
+<a href="https://www.postf.org/"><img src="/assets/POSCO_CI.jpg" alt="포스코청암재단" /></a>
 </div>
 
