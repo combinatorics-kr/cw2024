@@ -12,11 +12,11 @@ layout: ko
 
 ## 초청연사 
 
-- [최수영](http://acmi.ajou.ac.kr/~schoi/) (아주대학교)
 - [김동현](https://donghyunkim8.wixsite.com/dhkim) (서울대학교)
+- [김민기](https://sites.google.com/view/minkikim/home) (광주과학기술원)
 - [김장수](https://jangsookim.github.io/) (성균관대학교)
 - 김정한 (고등과학원)
-- [김민기](https://sites.google.com/view/minkikim/home) (광주과학기술원)
+- [최수영](http://acmi.ajou.ac.kr/~schoi/) (아주대학교)
 
 ## 일반 강연 (Contributed Talks)
 
@@ -52,9 +52,9 @@ layout: ko
 
 ## 조직위원 
 - 고두원 (충북대)
-- [이은정](https://sites.google.com/view/eunjeonglee/) (충북대)
-- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹 / KAIST)
 - [류미수](https://meesue.github.io/) (충북대)
+- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹 / KAIST)
+- [이은정](https://sites.google.com/view/eunjeonglee/) (충북대)
 
 ## 자문위
 
