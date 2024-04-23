@@ -42,7 +42,7 @@ The registration deadline: July 10, 2024.
 
 Approximately 4 km from the hotel to the venue. General participants are responsible for their own accommodation expenses, but if requested at the time of registration, we can reserve a room for you.
 
-- single room (1-person breakfast included): 125,000 KRW
+- single room (1-person breakfast included): 114,000 KRW
 - double room (shared, breakfast included): 70,000 KRW per person.
 
 We provide lunches and dinners during the entire workshop.
