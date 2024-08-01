@@ -55,13 +55,13 @@ div#logo img {
         gap: 5px;
     }
     .col-1{
-        grid-column: 1;
+        grid-column: 1; span 1;
     }
     .col-2 {
-        grid-column:  2;
+        grid-column:  2; span 1;
     }
     .col-3 {
-        grid-column:  3;
+        grid-column:  3; span 1;
     }
 }
 
