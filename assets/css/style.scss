@@ -43,7 +43,7 @@ div#logo img {
     }
 
     .event {
-        grid-column: auto;
+        grid-column: 1fr;
     }
 }
 @media (min-width: 768px) {
