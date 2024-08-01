@@ -9,3 +9,4 @@ layout: ko
 
 
 ## 자연대 
+<img src="/assets/tobldg6.png" alt="자연대 6호관" />
