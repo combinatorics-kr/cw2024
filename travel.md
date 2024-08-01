@@ -16,6 +16,10 @@ layout: ko
   
   <img src="/assets/wed_dinner.png" alt="나능이능이버섯백숙" width="650">
 
+### 8/28 (목요일) 점심식사 장소 
+- 교직원 식당 (은하수식당)
+
+   <img src="/assets/thu_lunch.png" alt="은하수식당" width="650">
 
 ### 8/29 (목요일) 저녁식사 장소
 - 갈비명가 연웅
