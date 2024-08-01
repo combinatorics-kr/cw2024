@@ -9,13 +9,15 @@ layout: ko
 
 
 ### 자연대 6호관 
-<img src="/assets/tobldg6.png" alt="자연대 6호관" />
+<img src="/assets/tobldg6.png" alt="자연대 6호관">
 
 ### 8/28 (수요일) 저녁식사 장소
 - 나능이 능이버섯백숙
-  <img src="/assets/wed_dinner.png" alt="나능이능이버섯백숙" />
+  
+  <img src="/assets/wed_dinner.png" alt="나능이능이버섯백숙" width="650">
 
 
 ### 8/29 (목요일) 저녁식사 장소
 - 갈비명가 연웅
-  <img src="/assets/thu_dinner.png" alt="갈비명가연웅" />
+  
+  <img src="/assets/thu_dinner.png" alt="갈비명가연웅" width="650">
