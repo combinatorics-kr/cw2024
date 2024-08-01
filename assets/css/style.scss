@@ -103,7 +103,7 @@ div#logo img {
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+  display: inline;
 }
 
 @import "{{ site.theme }}";
