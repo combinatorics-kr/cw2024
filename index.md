@@ -31,8 +31,8 @@ layout: ko
 
 <div class="calendar">            
     <div class="day-header">Wednesday, Aug 28</div>
-    <div class="event col-1 time-14-14-30">Opening</div>
     <div class="day-header">Thursday, Aug 29</div>
+    <div class="day-header">Friday, Aug 30</div>
 </div>
 
 
