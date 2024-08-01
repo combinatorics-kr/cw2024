@@ -27,6 +27,12 @@ layout: ko
 
 일반 강연은 20-25분간 진행될 예정입니다. 
 
+<div class="calendar">            
+    <div class="day-header">Sunday, July 14</div>
+    <div class="event col-1 time-14-19">Arrival / Meeting / Discussion</div>
+    <div class="day-header">Monday, July 15</div>
+</div>
+
 
 ## 등록 
 
