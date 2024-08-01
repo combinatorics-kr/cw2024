@@ -4,6 +4,8 @@ menu:
   url: /
 - title: 역사
   url: /history.html
+  - title: Schedule
+  url: /schedule.html
 - title: English
   url: /en/
 
