@@ -41,7 +41,7 @@ layout: ko
 
 [등록](https://indico.ibs.re.kr/event/650/registrations/)
 
-~~등록 마감은 7월 10일입니다.~~ 등록이 마감되었습니다. 
+~~등록 마감은 7월 10일입니다.~~  등록이 마감되었습니다. 
 
 ## 숙박 
 
