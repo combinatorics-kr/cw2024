@@ -65,10 +65,10 @@ div#logo img {
 }
 
 /* Time slot length and grid row positioning */
-.time-10-10-30 { grid-row-start: 2; grid-row-end: span 2; border-left: 5px solid hwb(17 0% 0%);}
-.time-10-30-11 { grid-row-start: 3; grid-row-end: span 2; border-left: 5px solid hsl(54, 100%, 50%);}
+.time-10-11 { grid-row-start: 2; grid-row-end: span 2; border-left: 5px solid hwb(17 0% 0%);}
+.time-10-30-11 { grid-row-start: 3; grid-row-end: span 1; border-left: 5px solid hsl(54, 100%, 50%);}
 .time-11-11-30 { grid-row-start: 4; grid-row-end: span 1; border-left: 5px solid hsl(54, 100%, 50%);}
-.time-11-30-12 { grid-row-start: 5; grid-row-end: span 2; border-left: 5px solid hwb(17 0% 0%);}
+.time-11-30-12 { grid-row-start: 5; grid-row-end: span 1; border-left: 5px solid hwb(17 0% 0%);}
 .time-12-13-30 { grid-row-start: 6; grid-row-end: span 2;    border-left: 5px solid hsl(54, 100%, 50%);
 }
 .time-12-14 { grid-row-start: 6; grid-row-end: span 3;    border-left: 5px solid hsl(54, 100%, 50%);
