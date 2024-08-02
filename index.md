@@ -31,7 +31,7 @@ layout: ko
 
 <div class="calendar">            
     <div class="day-header">Wednesday, Aug 28</div>
-    <div class="event time-14-14-30-1">14:00-14:30 Opening</div>
+    <div class="event time-14-14-30-1">14:00-14:30 Opening/Registration</div>
     <div class="day-header">Thursday, Aug 29</div>
     <div class="event time-10-11-1">10:00-11:00 <div class="type">Invited Talk 1</div></div>
     <div class="day-header">Friday, Aug 30</div>
