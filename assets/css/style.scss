@@ -92,6 +92,7 @@ div#logo img {
 .dropdown {
   position: relative;
   display: inline;
+  min-width: 400px; 
 }
 
 .dropdown-content {
@@ -106,7 +107,6 @@ div#logo img {
 
 .dropdown:hover .dropdown-content {
   display: block;
-  min-width: 200px; 
 }
 
 
