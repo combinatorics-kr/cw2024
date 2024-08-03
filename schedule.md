@@ -7,7 +7,7 @@ layout: ko
 ## 초청연사 (invited speakers)
 - 김정한 (고등과학원)<br/>
 **Title**:  Asymptotic bounds of Ramsey Numbers<br/>
-**Abstract**: Ramsey numbers, denoted as  \( R(s,t) \), are fundamental in graph theory, representing the smallest number of vertices $n$ such that every graph 
+**Abstract**: Ramsey numbers, denoted as  $R(s,t)$, are fundamental in graph theory, representing the smallest number of vertices $n$ such that every graph 
 on $n$ vertices either contains a clique of size $s$ or an independent set of size $t$. Recent developments in Ramsey theory have focused on finding asymptotic bounds for Ramsey numbers.<br/>
 In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)$, including significant contributions of Sam Mattheus and Jacques Verstraete on $R(4,t)$.
 
