@@ -106,11 +106,9 @@ div#logo img {
 
 .dropdown:hover .dropdown-content {
   display: block;
+  min-width: 200px; 
 }
 
-.dropdownsize {
-    width=500px
-}
 
 @import "{{ site.theme }}";
 
