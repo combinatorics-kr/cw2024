@@ -7,16 +7,24 @@ layout: ko
 
 ### 8월 28일 (수요일) 
 
-| Time&nbsp; &nbsp;    | Speaker | Content  | Notes | 
+| Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
 | 14:00 - 14:30|  | Opening/Registration     |   | 
 | 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | coffee break | | 
 | 16:00 - 16:30 | 신희성   | 102-avoiding inversion sequences | <a href="#shin" class="lightLink">Abstract</a>   |
-| 16:30 - 17:00 | 이현우   | Transversal Hamilton paths and cycles of arbitrary orientations in tournaments | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
+| 16:30 - 17:00 | 이현우   | Random matchings in linear hypergraphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | 이재호   | Towards a classification of 1-homogeneous graphs with positive intersection number $a_1$ |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
 
+<br/>
 
+### 8월 29일 (목요일) 
+
+| Time     | Speaker | Content  | Notes | 
+|-------- |:------:  |-------|----|  
+| 9:30 - 10:30 |  김민기  | Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes |  <a href="#minkikim" class="lightLink">Abstract</a>  |
+| 10:30 - 11:00 |   |  coffee break  |   |
+| 11:00 - 11:30 | 서재현 | Transversal Hamilton paths and cycles of arbitrary orientations in tournaments |   |
 
 
 
@@ -34,7 +42,7 @@ In this talk, we survey asymptotic bounds of Ramsey Numbers $R(3,t)$ and $R(4,t)
 <p><a name="minkikim"></a></p>
 
 - 김민기 (광주과학기술원)<br/>
-**Title**: Extensions of the colorful Helly theorem for d-collapsible and d-Leray complexes<br/>
+**Title**: Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes<br/>
 **Abstract**: We present extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes, providing a common generalization to the topological colorful Helly theorem by Kalai and Meshulam, the very colorful Helly theorem by Arocha et al., and the semi-intersecting colorful Helly theorem by Karasev and Montejano. As an application, we obtain a strengthened version of Tverberg's theorem. This is joint work with Alan Lew.
 
 <p><a name="suyoungchoi"></a></p>
@@ -75,12 +83,12 @@ In this talk, we will construct a correspondence between the set of 2-Schr\”{o
 <p><a name="hyunwoolee"></a></p>
 
 - 이현우 (KAIST) <br/>
-**Title**: Transversal Hamilton paths and cycles of arbitrary orientations in tournaments <br/>
-**Abstract**: It is well-known that a tournament always contains a directed Hamilton path. Rosenfeld conjectured that if a tournament is sufficiently large,
-  it contains a Hamilton path of any given orientation. This conjecture was approved by Thomason, and Havet and Thomassé completely resolved it by showing there are exactly three exceptions.<br/>
-We generalized this result into a transversal setting. Let $T = \{T_1, . . . , T_{n−1}\}$ be a collection of tournaments on a common vertex set $V$ of size $n$. We showed that if $n$ is sufficiently large, there is a Hamilton path on $V$ of any given orientation which is obtained by collecting exactly one arc from each $T_i$. Such a path is said to be transversal.<br/>
-It is also a folklore that a strongly connected tournament always contains a directed Hamilton cycle. Rosenfeld made a conjecture for arbitrarily oriented Hamilton cycles in tournaments as well, which was approved by Thomason (for sufficiently large tournaments) and Zein (by specifying all the exceptions). We also showed a transversal version of this result. Together with the aforementioned result, it extends our previous research, which is on transversal generalizations of existence of directed paths and cycles in tournaments.<br/>
-This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
+**Title**:Random matchings in linear hypergraphs <br/>
+**Abstract**: For a given hypergraph $H$ and a vertex $v \in V (H)$, consider a random matching $M$ chosen uniformly from the set of all matchings in $H$. In 1995, Kahn conjectured that if $H$ is a $d$-regular linear $k$-uniform hypergraph, the probability that $M$ does not cover $v$ is  $(1+o_d(1))d^{−1/k}$ for all vertices $v \in V (H)$. This conjecture was proved for $k = 2$ by Kahn and Kim in 1998.<br/>
+We disprove this conjecture for all $k \ge 3$. For infinitely many values of $d$, we construct $d$-regular
+linear $k$-uniform hypergraph $H$ containing two vertices $v_1$ and $v_2$ such that $P(v_1 \not\in  M) =
+1 − \frac{(1+o_d(1))}{d^{k-2}}$ and $P(v\not\in M) = \frac{(1+o_d(1))}{d+1}$. The gap between $\mathcal{P}(v\not\in M)$ and $\mathcal{P}(v \not\in M)$ 
+in this $H$ is best possible. In the course of proving this, we also prove a hypergraph analog of Godsil’s result on matching polynomials and paths in graphs, which is of independent interest.
 
 <p><a name="jaeholee"></a></p>
 
@@ -96,8 +104,15 @@ This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
   Moreover, we characterize 1-homogeneous graphs with classical parameters and $a_1 > 0$, as well as tight distance-regular graphs.<br/>
    This is a joint work with J. Koolen, M. Abdullah, B. Gebremichel.
 
+<p><a name="seo"></a></p>
 
-
+- 서재현 (Yonsei University)<br/>
+**Title**: Transversal Hamilton paths and cycles of arbitrary orientations in tournament <br/>
+**Abstract**: It is well-known that a tournament always contains a directed Hamilton path. Rosenfeld conjectured that if a tournament is sufficiently large,
+  it contains a Hamilton path of any given orientation. This conjecture was approved by Thomason, and Havet and Thomassé completely resolved it by showing there are exactly three exceptions.<br/>
+We generalized this result into a transversal setting. Let $T = \{T_1, . . . , T_{n−1}\}$ be a collection of tournaments on a common vertex set $V$ of size $n$. We showed that if $n$ is sufficiently large, there is a Hamilton path on $V$ of any given orientation which is obtained by collecting exactly one arc from each $T_i$. Such a path is said to be transversal.<br/>
+It is also a folklore that a strongly connected tournament always contains a directed Hamilton cycle. Rosenfeld made a conjecture for arbitrarily oriented Hamilton cycles in tournaments as well, which was approved by Thomason (for sufficiently large tournaments) and Zein (by specifying all the exceptions). We also showed a transversal version of this result. Together with the aforementioned result, it extends our previous research, which is on transversal generalizations of existence of directed paths and cycles in tournaments.<br/>
+This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
 
 
 
