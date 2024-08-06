@@ -55,16 +55,13 @@ div#logo img {
         gap: 5px;
     }
     .col-1{
-        grid-column-start: 1; 
-        grid-column-end: span 1;
+        grid-column: 1; 
     }
     .col-2 {
-        grid-column-start:  2; 
-        grid-column-end: span 1;
+        grid-column:  2; 
     }
     .col-3 {
-        grid-column-start:  3;
-        grid-column-end: span 1;
+        grid-column:  3;
     }
 }
 
