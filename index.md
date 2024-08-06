@@ -97,17 +97,17 @@ layout: ko
   <div class="dropdown-content">
   <p>On the extremal number of face-incidence graphs</p></div></div> </div>
     <div class="day-header">Friday, Aug 30</div>
-    <div class="event time-9-30-10-30-3">9:30-10:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
+    <div class="event time-9-30-10-30-3">9:30-10:30 <div class="type">Invited Talk 4</div> <div class="dropdown">
   <span>김동현</span>
   <div class="dropdown-content">
   <p>Lusztig $q$ weight multiplicities via affine crystals </p>
   </div> </div></div>
- <div class="event time-10-30-11-2">10:30-11:00 &nbsp; Coffee break</div>
+ <div class="event time-10-30-11-3">10:30-11:00 &nbsp; Coffee break</div>
      <div class="event time-11-11-30-3">11:00-11:30  &nbsp; <div class="dropdown"><span>송민호</span>
   <div class="dropdown-content">
   <p>Combinatorics of orthogonal polynomials on the unit circle</p></div></div> </div>
      <div class="event time-11-30-13-30-3">11:30-13:30 &nbsp; Lunch </div>
-    <div class="event time-13-30-14-30-3">13:30-14:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
+    <div class="event time-13-30-14-30-3">13:30-14:30 <div class="type">Invited Talk 5</div> <div class="dropdown">
   <span>김장수</span>
   <div class="dropdown-content">
   <p>Enumeration of multiplex juggling card sequences using generalized $q$-derivatives</p>
