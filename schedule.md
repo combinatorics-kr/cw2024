@@ -4,6 +4,15 @@ layout: ko
 
 # Schedule 
 
+
+### 8월 28일 (수요일) 
+
+| Time   | Speaker | Content  |
+|:-----  |:------:  |-------|
+| 14:00 - 14:30| Opening/Registration |     | 
+
+
+
 ## 초청연사 (invited speakers)
 - 김정한 (고등과학원)<br/>
 **Title**:  Asymptotic bounds of Ramsey Numbers<br/>
