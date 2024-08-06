@@ -8,7 +8,7 @@ layout: ko
 ### 8월 28일 (수요일) 
 
 | Time   | Speaker | Content  | Notes | 
-|:-----:  |:------:  |-------|----|  
+|-------- |:------:  |-------|----|  
 | 14:00 - 14:30|  | Opening/Registration     |   | 
 | 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | coffee break | | 
