@@ -48,7 +48,7 @@ layout: ko
   <span>김민기</span>
   <div class="dropdown-content">
   <p>Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes </p>
-  </div> </div>
+  </div> </div></div>
     <div class="day-header">Friday, Aug 30</div>
 </div>
 
