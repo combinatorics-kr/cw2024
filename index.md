@@ -72,7 +72,49 @@ layout: ko
   <div class="dropdown-content">
   <p>Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes </p>
   </div> </div></div>
+ <div class="event time-10-30-11-2">10:30-11:00 &nbsp; Coffee break</div>
+     <div class="event time-11-11-30-2">11:00-11:30  &nbsp; <div class="dropdown"><span>서재현</span>
+  <div class="dropdown-content">
+  <p>Transversal Hamilton paths and cycles of arbitrary orientations in tournaments</p></div></div> </div>
+     <div class="event time-11-30-13-30-2">11:30-13:30 &nbsp; Lunch </div>
+    <div class="event time-13-30-14-30-2">13:30-14:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
+  <span>최수영</span>
+  <div class="dropdown-content">
+  <p>Toric Colorability of Graphs of Simplicial $d$-Polytopes with $d+4$ vertices </p>
+  </div> </div></div>
+   <div class="event time-14-30-15-2">14:30-15:00 &nbsp; Coffee break</div>  
+     <div class="event time-15-15-30-2">15:00-15:30  &nbsp; <div class="dropdown"><span>윤영한</span>
+  <div class="dropdown-content">
+  <p>Real toric manifolds associated with chordal nestohedra</p></div></div> </div>
+     <div class="event time-15-30-16-2">15:30-16:00  &nbsp; <div class="dropdown"><span>정준호</span>
+  <div class="dropdown-content">
+  <p>Partitions of ordered partitions and Bott manifolds</p></div></div> </div>
+    <div class="event time-16-16-30-2">16:00-16:30 &nbsp; Coffee break</div>  
+     <div class="event time-16-30-17-2">16:30-17:00  &nbsp; <div class="dropdown"><span>임선혁</span>
+  <div class="dropdown-content">
+  <p>Homotopy Types of Vietoris-Rips Complexes and Their Connection to Hyperconvexity</p></div></div> </div>
+     <div class="event time-17-17-30-2">15:30-16:00  &nbsp; <div class="dropdown"><span>백지선</span>
+  <div class="dropdown-content">
+  <p>On the extremal number of face-incidence graphs</p></div></div> </div>
     <div class="day-header">Friday, Aug 30</div>
+    <div class="event time-9-30-10-30-3">9:30-10:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
+  <span>김동현</span>
+  <div class="dropdown-content">
+  <p>Lusztig $q$ weight multiplicities via affine crystals </p>
+  </div> </div></div>
+ <div class="event time-10-30-11-2">10:30-11:00 &nbsp; Coffee break</div>
+     <div class="event time-11-11-30-3">11:00-11:30  &nbsp; <div class="dropdown"><span>송민호</span>
+  <div class="dropdown-content">
+  <p>Combinatorics of orthogonal polynomials on the unit circle</p></div></div> </div>
+     <div class="event time-11-30-13-30-3">11:30-13:30 &nbsp; Lunch </div>
+    <div class="event time-13-30-14-30-3">13:30-14:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
+  <span>김장수</span>
+  <div class="dropdown-content">
+  <p>Enumeration of multiplex juggling card sequences using generalized $q$-derivatives</p>
+  </div> </div></div>
+  <div class="event time-14-30-15-3">14:30-15:00  &nbsp; <div class="dropdown"><span>김동규</span>
+  <div class="dropdown-content">
+  <p>Baker-Bowler theory for Lagrangian Grassmannians</p></div></div> </div>  
 </div>
 
 
