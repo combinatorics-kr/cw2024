@@ -38,8 +38,7 @@ layout: ko
   <p>Asymptotic bounds of Ramsey Numbers </p>
   </div>
 </div>
-
- </div>
+    </div>
      <div class="event time-15-30-16-1">15:30-16:00 Coffee break</div>
     <div class="day-header">Thursday, Aug 29</div>
     <div class="event time-10-11-1">10:00-11:00 <div class="type">Invited Talk 2</div> speaker </div>
