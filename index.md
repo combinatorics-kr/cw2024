@@ -34,7 +34,7 @@ layout: ko
     <div class="event time-14-14-30-1">14:00-14:30 Opening/Registration</div>
     <div class="event time-14-30-15-30-1">14:30-15:30 <div class="type">Invited Talk 1</div> 김정한 </div>
      <div class="event time-15-30-16-1">15:30-16:00 Coffee break</div>
-     <div class="event time-16-16-30-1 ">16:00-16:30 신희성 </div>
+     <div class="event time-16-16-30-1">16:00-16:30 신희성 </div>
      <div class="event time-16-30-17-1">16:30-17:00 이현우 </div>
     <div class="event time-17-17-30-1">17:00-17:30 이재호 </div>
     <div class="day-header">Thursday, Aug 29</div>
