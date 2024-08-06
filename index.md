@@ -96,6 +96,7 @@ layout: ko
      <div class="event time-17-17-30-2">15:30-16:00  &nbsp; <div class="dropdown"><span>백지선</span>
   <div class="dropdown-content">
   <p>On the extremal number of face-incidence graphs</p></div></div> </div>
+     <div class="event time-17-30-19-30-2">17:30-19:30 &nbsp; Banquet </div>
     <div class="day-header">Friday, Aug 30</div>
     <div class="event time-9-30-10-30-3">9:30-10:30 <div class="type">Invited Talk 4</div> <div class="dropdown">
   <span>김동현</span>
