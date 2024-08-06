@@ -44,7 +44,11 @@ layout: ko
      <div class="event time-16-30-17-1">16:30-17:00 &nbsp; 이현우 </div>
     <div class="event time-17-17-30-1">17:00-17:30  &nbsp; 이재호 </div>
     <div class="day-header">Thursday, Aug 29</div>
-    <div class="event time-10-11-2">10:00-11:00 <div class="type">Invited Talk 2</div> 김민기 </div>
+    <div class="event time-9-30-10-30-2">9:30-10:30 <div class="type">Invited Talk 2</div> <div class="dropdown">
+  <span>김민기</span>
+  <div class="dropdown-content">
+  <p>Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes </p>
+  </div> </div>
     <div class="day-header">Friday, Aug 30</div>
 </div>
 
