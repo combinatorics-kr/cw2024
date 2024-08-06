@@ -32,13 +32,19 @@ layout: ko
 <div class="calendar">            
     <div class="day-header">Wednesday, Aug 28</div>
     <div class="event time-14-14-30-1">14:00-14:30 Opening/Registration</div>
-    <div class="event time-14-30-15-30-1">14:30-15:30 <div class="type">Invited Talk 1</div> 김정한 </div>
-     <div class="event time-15-30-16-1">15:30-16:00 Coffee break</div>
-     <div class="event time-16-16-30-1">16:00-16:30 신희성 </div>
-     <div class="event time-16-30-17-1">16:30-17:00 이현우 </div>
-    <div class="event time-17-17-30-1">17:00-17:30 이재호 </div>
+    <div class="event time-14-30-15-30-1">14:30-15:30 <div class="type">Invited Talk 1</div> 
+        <div class="dropdown">
+  <span>김정한</span>
+  <div class="dropdown-content">
+  <p>Asymptotic bounds of Ramsey Numbers </p>
+  </div>
+</div> </div>
+     <div class="event time-15-30-16-1">15:30-16:00 &nbsp; Coffee break</div>
+     <div class="event time-16-16-30-1">16:00-16:30 &nbsp; 신희성 </div>
+     <div class="event time-16-30-17-1">16:30-17:00 &nbsp; 이현우 </div>
+    <div class="event time-17-17-30-1">17:00-17:30  &nbsp; 이재호 </div>
     <div class="day-header">Thursday, Aug 29</div>
-    <div class="event time-10-11-1">10:00-11:00 <div class="type">Invited Talk 2</div> 김민기 </div>
+    <div class="event time-10-11-2">10:00-11:00 <div class="type">Invited Talk 2</div> 김민기 </div>
     <div class="day-header">Friday, Aug 30</div>
 </div>
 
