@@ -24,11 +24,32 @@ layout: ko
 |-------- |:------:  |-------|----|  
 | 9:30 - 10:30 |  김민기  | Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes |  <a href="#minkikim" class="lightLink">Abstract</a>  |
 | 10:30 - 11:00 |   |  coffee break  |   |
-| 11:00 - 11:30 | 서재현 | Transversal Hamilton paths and cycles of arbitrary orientations in tournaments |   |
+| 11:00 - 11:30 | 서재현 | Transversal Hamilton paths and cycles of arbitrary orientations in tournaments | <a href="#seo" class="lightLink">Abstract</a>  |
+| 11:30 - 13:30 |     |  lunch    |   | 
+| 13:30 - 14:30 | 최수영 | Toric Colorability of Graphs of Simplicial $d$-Polytopes with $𝑑+4$ vertices |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
+| 14:30 - 15:00 |    | coffee break  |   |
+| 15:00 - 15:30 | 윤영한 | Real toric manifolds associated with chordal nestohedra |  <a href="#yoon" class="lightLink">Abstract</a> |
+| 15:30 - 16:00 | 정준호 | Partitions of ordered partitions and Bott manifolds | <a href="#jeong" class="lightLink">Abstract</a> |
+| 16:00 - 16:30 |    | coffee break  |     |
+| 16:30 - 17:00 | 임선혁 | Homotopy types of Vietoris-Rips complexes and their connection to hyperconvexity |  <a href="#lim" class="lightLink">Abstract</a>  | 
+| 17:00 - 17:30 | 백지선 | On the extremal number of face-incidence graphs | <a href="#baek" class="lightLink">Abstract</a>   | 
 
 
+<br/>
+
+### 8월 30일 (금요일) 
+
+| Time     | Speaker | Content  | Notes | 
+|-------- |:------:  |-------|----|  
+| 9:30 - 10:30 | 김동현 | Lusztig $q$ weight multiplicities via affine crystals |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
+| 10:30 - 11:00 |    | coffee break  |    |
+| 11:00 - 11:30 | 송민호 | Combinatorics of orthogonal polynomials on the unit circle | <a href="#song" class="lightLink">Abstract</a>   | 
+| 11:30 - 13:30 |    | lunch  |  | 
+| 13:30 - 14:30 | 김장수 | Enumeration of multiplex juggling card sequences using generalized $q$-derivatives | <a href="#jangsookim" class="lightLink">Abstract</a>   | 
+| 14:30 - 15:00 | 김동규 | Baker-Bowler theory for Lagrangian Grassmannians | <a href="#donggyukim" class="lightLink">Abstract</a>   | 
 
 
+<br/>
 
 ## 초청연사 (invited speakers)
 <p><a name="jeonghankim"></a></p>
@@ -78,7 +99,7 @@ Based on joint work with Hyeonjae Choi and Seung Jin Lee.
 - 신희성 (인하대학교) <br/>
 **Title**: 102-avoiding Inversion Sequences<br/>
 **Abstract**: A sequence $(e_1,e_2,\cdots ,e_n)$ is an inversion sequences if $0 \le e_i < i$ for all $i = 1,...,n$. We say that an inversion sequences $e = (e_1, e_2, \cdots , e_n)$ $\textit{contains}$ the pattern 102 if there exist some indices $i < j < k$ such that $e_j < e_i < e_k$. Otherwise, $e$ is said to $\textit{avoid}$ the pattern 102.
-In this talk, we will construct a correspondence between the set of 2-Schr\”{o}der paths without peaks and valleys ending with a diagonal step and the set of 102-avoiding inversion sequences. This is the joint work with JiSun Huh, Sangwook Kim, and Seunghyun Seo.
+In this talk, we will construct a correspondence between the set of 2-Schröder paths without peaks and valleys ending with a diagonal step and the set of 102-avoiding inversion sequences. This is the joint work with JiSun Huh, Sangwook Kim, and Seunghyun Seo.
 
 <p><a name="hyunwoolee"></a></p>
 
@@ -106,7 +127,7 @@ in this $H$ is best possible. In the course of proving this, we also prove a hyp
 
 <p><a name="seo"></a></p>
 
-- 서재현 (Yonsei University)<br/>
+- 서재현 (연세대학교)<br/>
 **Title**: Transversal Hamilton paths and cycles of arbitrary orientations in tournament <br/>
 **Abstract**: It is well-known that a tournament always contains a directed Hamilton path. Rosenfeld conjectured that if a tournament is sufficiently large,
   it contains a Hamilton path of any given orientation. This conjecture was approved by Thomason, and Havet and Thomassé completely resolved it by showing there are exactly three exceptions.<br/>
@@ -114,8 +135,70 @@ We generalized this result into a transversal setting. Let $T = \{T_1, . . . , T
 It is also a folklore that a strongly connected tournament always contains a directed Hamilton cycle. Rosenfeld made a conjecture for arbitrarily oriented Hamilton cycles in tournaments as well, which was approved by Thomason (for sufficiently large tournaments) and Zein (by specifying all the exceptions). We also showed a transversal version of this result. Together with the aforementioned result, it extends our previous research, which is on transversal generalizations of existence of directed paths and cycles in tournaments.<br/>
 This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
 
+<p><a name="yoon"></a></p>
+
+- 윤영한 (아주대학교) <br/>
+**Title**: Real toric manifolds associated with chordal nestohedra <br/>
+**Abstract**: For a chordal building set $\mathcal{B}$, there has already been an explicit description of the Betti numbers of the toric manifold $X_{\mathcal{B}}$ associated with a chordal nestohedron $P_{\mathcal{B}}$ in terms of $\mathcal{B}$-permutations. In this talk, we present an analogous description for the rational Betti numbers of the real toric man- ifold $X_{\mathcal{B}} ^{\mathbb{R}}$, the real locus of $X_{\mathcal{B}}$, in terms of alternating $\mathcal{B}$-permutations. Additionally, we perform explicit computations for specific cases of chordal nesohedra, including permutohedra, associahedra, stellohedra, Stanley-Pitman polytopes, Hochschild polytopes.
+
+<p><a name="jeong"></a></p>
+
+- 정준호 (충북대학교) <br/>
+**Title**: Partitions of ordered partitions and Bott manifolds<br/>
+**Abstract**: Bott manifolds are smooth projective toric varieties providing interesting avenues among topology, geometry, representation theory, and combinatorics. They are used to understand the geometric structure of Bott-Samelson-Demazure-Hansen (BSDH) varieties, which provide desingularizations of Schubert varieties. However, not all Bott manifolds originate from BSDH varieties. Those that do are specifically referred to as Bott manifolds of Bott-Samelson-Demazure-Hansen type. In this talk, we explore a relationship between Bott manifolds of BSDH type and partitions of ordered partitions. This talk is based on joint work with Jang Soo Kim and Eunjeong Lee.
+
+<p><a name="lim"></a></p>
+
+- 임선혁 (성균관대학교) <br/>
+**Title**: Homotopy types of Vietoris-Rips complexes and their connection to hyperconvexity<br/>
+**Abstract**: The Vietoris-Rips complex, originally introduced by Leopold Vietoris in the early 1900s to develop a homology theory for metric spaces, has since found applications in various areas of mathematics. Eliyahu Rips and Mikhail Gromov further utilized it in their studies of hyperbolic groups. More recently, classifying the homotopy types of Vietoris-Rips complexes has become a signif- icant problem in Topological Data Analysis and Global Metric Geometry. Understanding these complexes can enhance our grasp of the persistence barcode’s strength and provide lower bounds for the Gromov-Hausdorff distance between manifolds. In this talk, we will delve into these mo- tivations and introduce the precise connections between Vietoris-Rips complexes, hyperconvex metric spaces, and their homotopy types.
+
+<p><a name="baek"></a></p>
+
+- 백지선 (연세대학교) <br/>
+**Title**: On the extremal number of face-incidence graphs<br/>
+**Abstract**: The $(k, r)$-incidence graph of a regular polytope P is the bipartite incidence graph between $k$-faces and $r$-faces of $P$. We obtain a general upper bound and a corresponding supersaturation result for the extremal number of the $(k, r)$-incidence graph of any regular polytope.
+This generalises recent results of Janzer and Sudakov, who obtained the same bound for hypercubes and bipartite Kneser graphs, and confirms the conjecture of Conlon and Lee on the extremal number of $K_{d,d}$-free bipartite graphs for certain $(k, r)$-incidence graphs.<br/>
+Our proof, based on the reflection group method developed by Conlon and Lee, presents the method in a purely algebraic manner.
+As a consequence, this puts a number of results, including the Janzer-Sudakov theorem, the Conlon-Lee theorem on weakly norming graphs, and Coregliano’s theorem on Sidorenko’s conjecture, in the unified framework and simplifies all the proofs.<br/>
+Joint work with David Conlon and Joonkyung Lee.
+
+<p><a name="song"></a></p>
+
+- 송민호 (성균관대학교) <br/>
+**Title**: Combinatorics of orthogonal polynomials on the unit circle <br/>
+**Abstract**: Orthogonal polynomials on the unit circle (OPUC) are a family of polynomials orthogonal with respect to integration on the unit circle in the complex plane. The values of these integrals can be obtained by calculating moments. Numerous combinatorial studies have explored the moments of various types of orthogonal polynomials, including classical orthogonal polynomials, Laurent biorthogonal polynomials, and orthogonal polynomials of type $R_I$.<br/>
+In this talk, we first explain how OPUC relate to these other variations. Next, we study the moments of OPUC from a combinatorial perspective, providing three path interpretations: Łukasiewicz paths, gentle Motzkin paths, and Schröder paths. Using these combinatorial interpretations, we derive explicit formulas for the generalized moments of some examples of OPUC, including the circular Jacobi polynomials and the Rogers–Szegő polynomials. Furthermore, we introduce several types of generalized linearization coefficients and provide combinatorial interpretations for each of them.
+
+<p><a name="donggyukim"></a></p>
+
+- 김동규 (KAIST) <br/>
+**Title**: Baker-Bowler theory for Lagrangian Grassmannians<br/>
+**Abstract**: Baker and Bowler (2019) showed that the Grassmannian can be defined over a tract, a field-like structure generalizing both partial fields and hyperfields.
+This notion unifies theories for matroids over partial fields, valuated matroids, and oriented matroids.<br/>
+We extend Baker-Bowler theory to the Lagrangian Grassmannian which is the set of maximal isotropic subspaces in a $2n$-dimensional symplectic vector space.
+By Boege et al. (2019), the Lagrangian Grassmannian is parameterized into the projective space of dimension $2^{n−2}\binom{4}{2} − 1$ and its image is cut out by certain quadrics.<br/>
+We simplify a list of quadrics so that these are apparently induced by the Laplace expansions only concerning principal and almost-principal minors of a symmetric matrix.
+From the idea that the strong basis exchange axiom of matroids captures the combinatorial essence of the Grassmann-Pl\”{u}cker relations, we define matroid-like objects, called antisymmetric matroids, from the quadrics for the Lagrangian Grassmannian.<br/>
+We also provide its cryptomorphic definition in terms of circuits capturing the orthogonality and maximality of vectors in a Lagrangian subspace.<br/>
+We define antisymmetric matroids over tracts in two equivalent ways, which generalize both Baker-Bowler theory and the parameterization of the Lagrangian Grassmannian.
+It provides a new perspective on the Lagrangian Grassmannian over hyperfields such as the tropical hyperfield and the sign hyperfield.<br/>
+Our proof involves a homotopy theorem for graphs associated with antisymmetric matroids, generalizing Maurer’s homotopy theorem for matroids.<br/>
+We also prove that if a point in the projective space satisfies the 3-/4-term quadratic relations for the Lagrangian Grassmannian and its supports form the bases of an antisymmetric matroid, then it satisfies all quadratic relations, which is motivated by the earlier work of Tutte (1958) for matroids and the Grassmannian.
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+  
