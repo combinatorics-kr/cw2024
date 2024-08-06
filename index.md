@@ -65,7 +65,7 @@ layout: ko
 ## 조직위원 
 - 고두원 (충북대)
 - [류미수](https://meesue.github.io/) (충북대)
-- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹 / KAIST)
+- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
 - [이은정](https://sites.google.com/view/eunjeonglee/) (충북대)
 
 ## 자문위

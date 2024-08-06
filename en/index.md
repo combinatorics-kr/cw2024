@@ -62,7 +62,7 @@ Cheongju, Korea
 
 - Doowon Koh (고두원), Chungbuk National University
 - [Eunjeong Lee (이은정)](https://sites.google.com/view/eunjeonglee/), Chungbuk National University
-- [Sang-il Oum (엄상일)](https://dimag.ibs.re.kr/home/sangil/), IBS Discrete Mathematics Group / KAIST
+- [Sang-il Oum (엄상일)](https://dimag.ibs.re.kr/home/sangil/), IBS Discrete Mathematics Group
 - [Meesue Yoo (류미수)](https://meesue.github.io/), Chungbuk National University
 
 ## Advisory Committee
