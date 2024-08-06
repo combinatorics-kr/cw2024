@@ -7,13 +7,17 @@ layout: ko
 
 ### 8월 28일 (수요일) 
 
-| Time   | Speaker | Content  |
-|:-----  |:------:  |-------|
-| 14:00 - 14:30| Opening/Registration |     | 
+| Time   | Speaker | Content  | Notes | 
+|:-----  |:------:  |-------|----|  
+| 14:00 - 14:30| Opening/Registration |     |   | 
+| 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
+
 
 
 
 ## 초청연사 (invited speakers)
+
+
 - 김정한 (고등과학원)<br/>
 **Title**:  Asymptotic bounds of Ramsey Numbers<br/>
 **Abstract**: Ramsey numbers, denoted as  $R(s,t)$, are fundamental in graph theory, representing the smallest number of vertices $n$ such that every graph 
@@ -42,6 +46,8 @@ Based on joint work with Hyeonjae Choi and Seung Jin Lee.
   natural bijective way. They conjectured a formula for the generating function for the number of multiplex juggling cards with capacity.
   In this paper we prove their conjecture. More generally, we find an explicit formula for the generating function with any capacity. We
   also find an expression for the generating function for multiplex juggling card sequences by introducing a generalization of the $q$-derivative operator. As a consequence, we show that this generating function is a rational function.
+
+  <p><a name="jeonghankim"></a></p>
 
 <div class="dropdown">
   <span>Mouse over me pleeeeeease</span>
