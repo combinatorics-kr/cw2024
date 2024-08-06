@@ -33,7 +33,7 @@ layout: ko
     <div class="day-header">Wednesday, Aug 28</div>
     <div class="event time-14-14-30-1">14:00-14:30 Opening/Registration</div>
     <div class="event time-14-30-15-30-1">14:30-15:30 <div class="type">Invited Talk 1</div> speaker </div>
-     <div class="event col-1 time-15-30-16">15:30-16:00 Coffee break</div>
+     <div class="event time-15-30-16-1">15:30-16:00 Coffee break</div>
     <div class="day-header">Thursday, Aug 29</div>
     <div class="event time-10-11-1">10:00-11:00 <div class="type">Invited Talk 2</div> speaker </div>
     <div class="day-header">Friday, Aug 30</div>
