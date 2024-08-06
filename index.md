@@ -93,7 +93,7 @@ layout: ko
      <div class="event time-16-30-17-2">16:30-17:00  &nbsp; <div class="dropdown"><span>임선혁</span>
   <div class="dropdown-content">
   <p>Homotopy Types of Vietoris-Rips Complexes and Their Connection to Hyperconvexity</p></div></div> </div>
-     <div class="event time-17-17-30-2">15:30-16:00  &nbsp; <div class="dropdown"><span>백지선</span>
+     <div class="event time-17-17-30-2">17:00-17:30  &nbsp; <div class="dropdown"><span>백지선</span>
   <div class="dropdown-content">
   <p>On the extremal number of face-incidence graphs</p></div></div> </div>
      <div class="event time-17-30-19-30-2">17:30-19:30 &nbsp; Banquet </div>
