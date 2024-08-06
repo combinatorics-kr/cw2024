@@ -60,7 +60,12 @@ layout: ko
   </div>
 </div> </div>
     <div class="event time-17-30-19-30-1">17:30-19:30 &nbsp; Dinner </div>
-    <div class="event time-19-30-21-1">19:30-21:00 &nbsp; Crash course on Newbiemacs</div>
+    <div class="event time-19-30-21-1">19:30-21:00 &nbsp; <div class="dropdown">
+  <span>Extracurricular activity</span>
+  <div class="dropdown-content">
+  <p>Crash course on Newbiemacs </p>
+  </div>
+</div></div>
     <div class="day-header">Thursday, Aug 29</div>
     <div class="event time-9-30-10-30-2">9:30-10:30 <div class="type">Invited Talk 2</div> <div class="dropdown">
   <span>김민기</span>
@@ -70,7 +75,8 @@ layout: ko
     <div class="day-header">Friday, Aug 30</div>
 </div>
 
-time-17-30-19-30-1
+
+
 ## 등록 
 
 [등록](https://indico.ibs.re.kr/event/650/registrations/)
