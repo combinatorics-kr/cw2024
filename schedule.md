@@ -7,7 +7,7 @@ layout: ko
 
 ### 8월 28일 (수요일) 
 
-| Time   | Speaker | Content  | Notes | 
+| Time&nbsp; &nbsp;    | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
 | 14:00 - 14:30|  | Opening/Registration     |   | 
 | 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
@@ -84,9 +84,17 @@ This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
 
 <p><a name="jaeholee"></a></p>
 
-- 이재호 (University of North Florida & POSTECH)
+- 이재호 (University of North Florida & POSTECH)<br/>
 **Title**: Towards a classification of 1-homogeneous graphs with positive intersection number $a_1$ <br/>
-**Abstract**: Let $\Gamma$ be a graph with diameter at least two. Then Γ is said to be 1-homogeneous (in the sense of Nomura) whenever for every pair of adjacent vertices $x$ and $y$ in $\Gamma$, the distance partition of the vertex set of $\Gamma$ with respect to both $x$ and $y$ is equitable, and the parameters corresponding to equitable partitions are independent of the choice of $x$ and $y$. Assume $\Gamma$ is 1-homogeneous distance-regular with intersection number $a_1 > 0$ and diameter $D \geqslant 5$. Define $b = b_1/(\theta_1 + 1)$, where $b_1$ is the intersection number and $\theta_1$ is the second largest eigenvalue of $\Gamma$. In this talk, we show that if intersection number $c_2 \geqslant 2$, then $b \geqslant 1$ and one of the following (i)–(vi) holds: (i) $\Gamma$ is a regular near $2D$-gon, (ii) $\Gamma$ is a Johnson graph $J(2D, D)$, (iii) $\Gamma$ is a halved $l$-cube where $l \in \{2D, 2D+1\}$, (iv) $\Gamma$ is a folded Johnson graph $\overline{J}(4D, 2D)$, (v) $\Gamma$ is a folded halved $(4D)$-cube, (vi) the valency of $\Gamma$ is bounded by a function of $b$. Moreover, we characterize 1-homogeneous graphs with classical parameters and $a_1 > 0$, as well as tight distance-regular graphs. This is a joint work with J. Koolen, M. Abdullah, B. Gebremichel.
+**Abstract**: Let $\Gamma$ be a graph with diameter at least two. Then Γ is said to be 1-homogeneous (in the sense of Nomura) whenever for every pair of adjacent vertices $x$ and $y$ in $\Gamma$, the distance partition of the vertex set of $\Gamma$ with respect to both $x$ and $y$ is equitable, and the parameters corresponding to equitable partitions are independent of the choice of $x$ and $y$. Assume $\Gamma$ is 1-homogeneous distance-regular with intersection number $a_1 > 0$ and diameter $D \geqslant 5$. Define $b = b_1/(\theta_1 + 1)$, where $b_1$ is the intersection number and $\theta_1$ is the second largest eigenvalue of $\Gamma$. In this talk, we show that if intersection number $c_2 \geqslant 2$, then $b \geqslant 1$ and one of the following (i)–(vi) holds:<br/>
+  (i) $\Gamma$ is a regular near $2D$-gon,<br/>
+  (ii) $\Gamma$ is a Johnson graph $J(2D, D)$,<br/>
+  (iii) $\Gamma$ is a halved $l$-cube where $l \in \{2D, 2D+1\}$,<br/>
+  (iv) $\Gamma$ is a folded Johnson graph $\overline{J}(4D, 2D)$,<br/>
+  (v) $\Gamma$ is a folded halved $(4D)$-cube,<br/>
+   (vi) the valency of $\Gamma$ is bounded by a function of $b$.<br/>
+  Moreover, we characterize 1-homogeneous graphs with classical parameters and $a_1 > 0$, as well as tight distance-regular graphs.<br/>
+   This is a joint work with J. Koolen, M. Abdullah, B. Gebremichel.
 
 
 
