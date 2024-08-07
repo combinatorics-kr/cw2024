@@ -18,5 +18,9 @@ menuen:
   url: /en/
 - title: History
   url: /en/history.html
+- title: Program
+  url: /schedule.html
+- title: 오시는 길
+  url: /travel.html
 - title: 한국어
   url: /
