@@ -28,7 +28,7 @@ layout: ko
 | 11:30 - 13:30 |     |  lunch    |   | 
 | 13:30 - 14:30 | 최수영 | Toric Colorability of Graphs of Simplicial $d$-Polytopes with $𝑑+4$ vertices |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 14:30 - 15:00 |    | coffee break  |   |
-| 15:00 - 15:30 | 윤영한 | Real toric manifolds associated with chordal nestohedra |  <a href="#yoon" class="lightLink">Abstract</a> |
+| 15:00 - 15:30 | 윤영한 |  Alternating $\mathcal{B}$-permutations arising from toric topology |  <a href="#yoon" class="lightLink">Abstract</a> |
 | 15:30 - 16:00 | 정준호 | Partitions of ordered partitions and Bott manifolds | <a href="#jeong" class="lightLink">Abstract</a> |
 | 16:00 - 16:30 |    | coffee break  |     |
 | 16:30 - 17:00 | 임선혁 | Homotopy types of Vietoris-Rips complexes and their connection to hyperconvexity |  <a href="#lim" class="lightLink">Abstract</a>  | 
@@ -138,8 +138,12 @@ This is a joint work with Debsoumya Chakraborti, Jaehoon Kim, and Hyunwoo Lee.
 <p><a name="yoon"></a></p>
 
 - 윤영한 (아주대학교) <br/>
-**Title**: Real toric manifolds associated with chordal nestohedra <br/>
-**Abstract**: For a chordal building set $\mathcal{B}$, there has already been an explicit description of the Betti numbers of the toric manifold $X_{\mathcal{B}}$ associated with a chordal nestohedron $P_{\mathcal{B}}$ in terms of $\mathcal{B}$-permutations. In this talk, we present an analogous description for the rational Betti numbers of the real toric man- ifold $X_{\mathcal{B}} ^{\mathbb{R}}$, the real locus of $X_{\mathcal{B}}$, in terms of alternating $\mathcal{B}$-permutations. Additionally, we perform explicit computations for specific cases of chordal nesohedra, including permutohedra, associahedra, stellohedra, Stanley-Pitman polytopes, Hochschild polytopes.
+**Title**: Alternating $\mathcal{B}$-permutations arising from toric topology <br/>
+**Abstract**: In this talk, we focus on the rational Betti numbers of real toric manifolds associated with chordal nestohedra.
+We introduce an explicit description for the Betti numbers using alternating $\mathcal{B}$-permutations for a chordal building set $\mathcal{B}$.
+We provide detailed computations for interesting cases of chordal nestohedra, including permutohedra, associahedra, stellohedra, Stanley-Pitman polytopes, and Hochschild polytopes. 
+This is joint work with Suyoung Choi.
+
 
 <p><a name="jeong"></a></p>
 
