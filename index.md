@@ -76,7 +76,7 @@ layout: ko
      <div class="event time-11-11-30-2">11:00-11:30  &nbsp; <div class="dropdown"><span>서재현</span>
   <div class="dropdown-content">
   <p>Transversal Hamilton paths and cycles of arbitrary orientations in tournaments</p></div></div> </div>
-     <div class="event time-11-30-13-30-2">11:30-13:30 &nbsp; Lunch </div>
+     <div class="event time-11-30-13-30-2">11:30-13:30 &nbsp; Group photo / Lunch </div>
     <div class="event time-13-30-14-30-2">13:30-14:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
   <span>최수영</span>
   <div class="dropdown-content">
