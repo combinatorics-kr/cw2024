@@ -30,11 +30,103 @@ If you are interested in giving a contributed talk at the workshop, please submi
 You may need to create an account on IBS indico in order to submit an abstract.
 
 
+## Schedule 
+
+<div class="calendar">            
+    <div class="day-header">Wednesday, Aug 28</div>
+    <div class="event time-14-14-30-1">14:00-14:30 Opening/Registration</div>
+    <div class="event time-14-30-15-30-1">14:30-15:30 <div class="type">Invited Talk 1</div> 
+        <div class="dropdown">
+  <span>김정한</span>
+  <div class="dropdown-content">
+  <p>Asymptotic bounds of Ramsey Numbers </p>
+  </div>
+</div> </div>
+     <div class="event time-15-30-16-1">15:30-16:00 &nbsp; Coffee break</div>
+     <div class="event time-16-16-30-1">16:00-16:30 &nbsp;   <div class="dropdown">
+  <span>신희성</span>
+  <div class="dropdown-content">
+  <p>102-avoiding Inversion Sequences </p>
+  </div>
+</div> </div>
+     <div class="event time-16-30-17-1">16:30-17:00 &nbsp; <div class="dropdown">
+  <span>이현우</span>
+  <div class="dropdown-content">
+  <p>Random matchings in linear hypergraphs </p>
+  </div>
+</div> </div>
+    <div class="event time-17-17-30-1">17:00-17:30  &nbsp; <div class="dropdown">
+  <span>이재호</span>
+  <div class="dropdown-content">
+  <p>Towards a classification of $1$-homogeneous graphs with positive intersection number $a_1$
+ </p>
+  </div>
+</div> </div>
+    <div class="event time-17-30-19-30-1">17:30-19:30 &nbsp; Dinner </div>
+    <div class="event time-19-30-21-1">19:30-21:00 &nbsp; <div class="dropdown">
+  <span>Extracurricular activity</span>
+  <div class="dropdown-content">
+  <p>Crash course on Newbiemacs </p>
+  </div>
+</div></div>
+    <div class="day-header">Thursday, Aug 29</div>
+    <div class="event time-9-30-10-30-2">9:30-10:30 <div class="type">Invited Talk 2</div> <div class="dropdown">
+  <span>김민기</span>
+  <div class="dropdown-content">
+  <p>Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes </p>
+  </div> </div></div>
+ <div class="event time-10-30-11-2">10:30-11:00 &nbsp; Coffee break</div>
+     <div class="event time-11-11-30-2">11:00-11:30  &nbsp; <div class="dropdown"><span>서재현</span>
+  <div class="dropdown-content">
+  <p>Transversal Hamilton paths and cycles of arbitrary orientations in tournaments</p></div></div> </div>
+     <div class="event time-11-30-13-30-2">11:30-13:30 &nbsp; Group photo / Lunch </div>
+    <div class="event time-13-30-14-30-2">13:30-14:30 <div class="type">Invited Talk 3</div> <div class="dropdown">
+  <span>최수영</span>
+  <div class="dropdown-content">
+  <p>Toric Colorability of Graphs of Simplicial $d$-Polytopes with $d+4$ vertices </p>
+  </div> </div></div>
+   <div class="event time-14-30-15-2">14:30-15:00 &nbsp; Coffee break</div>  
+     <div class="event time-15-15-30-2">15:00-15:30  &nbsp; <div class="dropdown"><span>윤영한</span>
+  <div class="dropdown-content">
+  <p>Real toric manifolds associated with chordal nestohedra</p></div></div> </div>
+     <div class="event time-15-30-16-2">15:30-16:00  &nbsp; <div class="dropdown"><span>정준호</span>
+  <div class="dropdown-content">
+  <p>Partitions of ordered partitions and Bott manifolds</p></div></div> </div>
+    <div class="event time-16-16-30-2">16:00-16:30 &nbsp; Coffee break</div>  
+     <div class="event time-16-30-17-2">16:30-17:00  &nbsp; <div class="dropdown"><span>임선혁</span>
+  <div class="dropdown-content">
+  <p>Homotopy Types of Vietoris-Rips Complexes and Their Connection to Hyperconvexity</p></div></div> </div>
+     <div class="event time-17-17-30-2">17:00-17:30  &nbsp; <div class="dropdown"><span>백지선</span>
+  <div class="dropdown-content">
+  <p>On the extremal number of face-incidence graphs</p></div></div> </div>
+     <div class="event time-17-30-19-30-2">17:30-19:30 &nbsp; Banquet </div>
+    <div class="day-header">Friday, Aug 30</div>
+    <div class="event time-9-30-10-30-3">9:30-10:30 <div class="type">Invited Talk 4</div> <div class="dropdown">
+  <span>김동현</span>
+  <div class="dropdown-content">
+  <p>Lusztig $q$ weight multiplicities via affine crystals </p>
+  </div> </div></div>
+ <div class="event time-10-30-11-3">10:30-11:00 &nbsp; Coffee break</div>
+     <div class="event time-11-11-30-3">11:00-11:30  &nbsp; <div class="dropdown"><span>송민호</span>
+  <div class="dropdown-content">
+  <p>Combinatorics of orthogonal polynomials on the unit circle</p></div></div> </div>
+     <div class="event time-11-30-13-30-3">11:30-13:30 &nbsp; Lunch </div>
+    <div class="event time-13-30-14-30-3">13:30-14:30 <div class="type">Invited Talk 5</div> <div class="dropdown">
+  <span>김장수</span>
+  <div class="dropdown-content">
+  <p>Enumeration of multiplex juggling card sequences using generalized $q$-derivatives</p>
+  </div> </div></div>
+  <div class="event time-14-30-15-3">14:30-15:00  &nbsp; <div class="dropdown"><span>김동규</span>
+  <div class="dropdown-content">
+  <p>Baker-Bowler theory for Lagrangian Grassmannians</p></div></div> </div>  
+    <div class="event time-15-15-30-3">15:00-15:30  &nbsp; Closing</div>
+</div>
+
 ## Registration
 
 [Registration](https://indico.ibs.re.kr/event/650/registrations/)
 
-The registration deadline: July 10, 2024. 
+~~The registration deadline: July 10, 2024.~~ &nbsp; Registration is closed.  
 
 ## Accommodation
 
