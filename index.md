@@ -85,7 +85,7 @@ layout: ko
    <div class="event time-14-30-15-2">14:30-15:00 &nbsp; Coffee break</div>  
      <div class="event time-15-15-30-2">15:00-15:30  &nbsp; <div class="dropdown"><span>윤영한</span>
   <div class="dropdown-content">
-  <p>Real toric manifolds associated with chordal nestohedra</p></div></div> </div>
+  <p> Alternating $\mathcal{B}$-permutations arising from toric topology</p></div></div> </div>
      <div class="event time-15-30-16-2">15:30-16:00  &nbsp; <div class="dropdown"><span>정준호</span>
   <div class="dropdown-content">
   <p>Partitions of ordered partitions and Bott manifolds</p></div></div> </div>
