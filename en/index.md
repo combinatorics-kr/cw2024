@@ -126,7 +126,7 @@ You may need to create an account on IBS indico in order to submit an abstract.
 
 [Registration](https://indico.ibs.re.kr/event/650/registrations/)
 
-~~The registration deadline: July 10, 2024.~~ &nbsp; Registration is closed.  
+~~The registration deadline: July 10, 2024.~~ &nbsp; Online registration is closed. Registration is still possible on the spot. 
 
 ## Accommodation
 
