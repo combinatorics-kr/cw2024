@@ -115,7 +115,7 @@ layout: ko
   </div> </div></div>
   <div class="event time-14-30-15-3">14:30-15:00  &nbsp; <div class="dropdown"><span>김동규</span>
   <div class="dropdown-content">
-  <p>Baker-Bowler theory for Lagrangian Grassmannians</p></div></div> </div>  
+  <p>Two ways to generalize matroids with coefficients</p></div></div> </div>  
     <div class="event time-15-15-30-3">15:00-15:30  &nbsp; Closing</div>
 </div>
 
