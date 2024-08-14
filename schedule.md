@@ -46,7 +46,7 @@ layout: ko
 | 11:00 - 11:30 | 송민호 | Combinatorics of orthogonal polynomials on the unit circle | <a href="#song" class="lightLink">Abstract</a>   | 
 | 11:30 - 13:30 |    | lunch  |  | 
 | 13:30 - 14:30 | 김장수 | Enumeration of multiplex juggling card sequences using generalized $q$-derivatives | <a href="#jangsookim" class="lightLink">Abstract</a>   | 
-| 14:30 - 15:00 | 김동규 | Baker-Bowler theory for Lagrangian Grassmannians | <a href="#donggyukim" class="lightLink">Abstract</a>   | 
+| 14:30 - 15:00 | 김동규 | Two ways to generalize matroids with coefficients | <a href="#donggyukim" class="lightLink">Abstract</a>   | 
 
 
 <br/>
@@ -177,18 +177,9 @@ In this talk, we first explain how OPUC relate to these other variations. Next, 
 <p><a name="donggyukim"></a></p>
 
 - 김동규 (KAIST) <br/>
-**Title**: Baker-Bowler theory for Lagrangian Grassmannians<br/>
-**Abstract**: Baker and Bowler (2019) showed that the Grassmannian can be defined over a tract, a field-like structure generalizing both partial fields and hyperfields.
-This notion unifies theories for matroids over partial fields, valuated matroids, and oriented matroids.<br/>
-We extend Baker-Bowler theory to the Lagrangian Grassmannian which is the set of maximal isotropic subspaces in a $2n$-dimensional symplectic vector space.
-By Boege et al. (2019), the Lagrangian Grassmannian is parameterized into the projective space of dimension $2^{n−2}\binom{4}{2} − 1$ and its image is cut out by certain quadrics.<br/>
-We simplify a list of quadrics so that these are apparently induced by the Laplace expansions only concerning principal and almost-principal minors of a symmetric matrix.
-From the idea that the strong basis exchange axiom of matroids captures the combinatorial essence of the Grassmann-Pl\”{u}cker relations, we define matroid-like objects, called antisymmetric matroids, from the quadrics for the Lagrangian Grassmannian.<br/>
-We also provide its cryptomorphic definition in terms of circuits capturing the orthogonality and maximality of vectors in a Lagrangian subspace.<br/>
-We define antisymmetric matroids over tracts in two equivalent ways, which generalize both Baker-Bowler theory and the parameterization of the Lagrangian Grassmannian.
-It provides a new perspective on the Lagrangian Grassmannian over hyperfields such as the tropical hyperfield and the sign hyperfield.<br/>
-Our proof involves a homotopy theorem for graphs associated with antisymmetric matroids, generalizing Maurer’s homotopy theorem for matroids.<br/>
-We also prove that if a point in the projective space satisfies the 3-/4-term quadratic relations for the Lagrangian Grassmannian and its supports form the bases of an antisymmetric matroid, then it satisfies all quadratic relations, which is motivated by the earlier work of Tutte (1958) for matroids and the Grassmannian.
+**Title**: Two ways to generalize matroids with coefficients<br/>
+**Abstract**: Dress (1986) introduced matroids with coefficients offering a unified approach to ordinary matroids, representations of matroids over fields, and oriented matroids. Baker and Bowler (2019) extended this theory, whose result includes a partial field representation by Semple and Whittle (1996).<br/>
+I will present two generalizations of matroids with coefficients. One is about skew-symmetric matrices and even delta-matroids, based on joint work with Tong Jin. We deduce several results on the representability of even delta-matroids as applications. The other concerns symmetric matrices and new matroid-like objects called antisymmetric matroids. It extends old results on the representability of matroids by Tutte (1958) and basis graphs of matroids by Maurer (1973). These two generalizations involve an interesting interplay between Lagrangian orthogonal/symplectic Grassmannians and combinatorics.<br/>
 
 
 
