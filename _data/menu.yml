@@ -8,6 +8,8 @@ menu:
   url: /schedule.html
 - title: 오시는 길
   url: /travel.html
+- title: 자료
+  url: /materials.html  
 - title: English
   url: /en/
 
@@ -22,5 +24,7 @@ menuen:
   url: /schedule.html
 - title: Direction
   url: /travel.html
+- title: Materials
+  url: /materials.html
 - title: 한국어
   url: /
