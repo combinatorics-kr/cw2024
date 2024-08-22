@@ -4,6 +4,7 @@ layout: ko
 
 # Schedule 
 
+- Program Booklet (<a href="/assets/2024_Combinatorics_Workshop.pdf" target="_blank">다운로드</a>)
 
 ### 8월 28일 (수요일) 
 
