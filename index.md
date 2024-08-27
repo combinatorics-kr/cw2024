@@ -29,6 +29,8 @@ layout: ko
 
 ## Schedule 
 
+- Program Booklet (<a href="/assets/2024_Combinatorics_Workshop.pdf" target="_blank">다운로드</a>)
+
 <div class="calendar">            
     <div class="day-header">Wednesday, Aug 28</div>
     <div class="event time-14-14-30-1">14:00-14:30 Opening/Registration</div>
