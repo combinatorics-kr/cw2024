@@ -11,7 +11,7 @@ layout: ko
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
 | 14:00 - 14:30|  | Opening/Registration     |   | 
-|      | 좌장 | 엄상일 (IBS) |   |
+|      | <div class="type">좌장 </div>| 엄상일 (IBS) |   |
 | 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | coffee break | | 
 |     |  좌장 | 박종육 (경북대학교) | |
