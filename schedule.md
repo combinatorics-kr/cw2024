@@ -11,10 +11,10 @@ layout: ko
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
 | 14:00 - 14:30|  | Opening/Registration     |   | 
-|      | 좌장 | 엄상일 |   |
+|      | 좌장 | 엄상일 (IBS) |   |
 | 14:30 - 15:30 |  김정한   | Asymptotic bounds of Ramsey Numbers | <a href="#jeonghankim" class="lightLink">Abstract</a>  |
 | 15:30 - 16:00 |  | coffee break | | 
-|     |  좌장 | 박종육  | |
+|     |  좌장 | 박종육 (경북대학교) | |
 | 16:00 - 16:30 | 신희성   | 102-avoiding inversion sequences | <a href="#shin" class="lightLink">Abstract</a>   |
 | 16:30 - 17:00 | 이현우   | Random matchings in linear hypergraphs | <a href="#hyunwoolee" class="lightLink">Abstract</a> |
 | 17:00 - 17:30 | 이재호   | Towards a classification of 1-homogeneous graphs with positive intersection number $a_1$ |  <a href="#jaeholee" class="lightLink">Abstract</a> | 
@@ -25,20 +25,20 @@ layout: ko
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
-|  | 좌장 | 김석진  |  |
+|  | 좌장 | 김석진 (건국대학교) |  |
 | 9:30 - 10:30 |  김민기  | Extensions of the colorful Helly theorem for $d$-collapsible and $d$-Leray complexes |  <a href="#minkikim" class="lightLink">Abstract</a>  |
 | 10:30 - 11:00 |   |  coffee break  |   |
-|  | 좌장 | 이준경  |  |
+|  | 좌장 | 이준경 (연세대학교) |  |
 | 11:00 - 11:30 | 서재현 | Transversal Hamilton paths and cycles of arbitrary orientations in tournaments | <a href="#seo" class="lightLink">Abstract</a>  |
 | 11:30 - 13:30 |     |  lunch    |   | 
-|  | 좌장 | 이은정  |  |
+|  | 좌장 | 이은정 (충북대학교) |  |
 | 13:30 - 14:30 | 최수영 | Toric Colorability of Graphs of Simplicial $d$-Polytopes with $𝑑+4$ vertices |  <a href="#suyoungchoi" class="lightLink">Abstract</a>  |
 | 14:30 - 15:00 |    | coffee break  |   |
-|  | 좌장 | 김진하  |  |
+|  | 좌장 | 김진하 (전남대학교) |  |
 | 15:00 - 15:30 | 윤영한 |  Alternating $\mathcal{B}$-permutations arising from toric topology |  <a href="#yoon" class="lightLink">Abstract</a> |
 | 15:30 - 16:00 | 정준호 | Partitions of ordered partitions and Bott manifolds | <a href="#jeong" class="lightLink">Abstract</a> |
 | 16:00 - 16:30 |    | coffee break  |     |
-|  | 좌장 | 김상욱  |  |
+|  | 좌장 | 김상욱 (전남대학교) |  |
 | 16:30 - 17:00 | 임선혁 | Homotopy types of Vietoris-Rips complexes and their connection to hyperconvexity |  <a href="#lim" class="lightLink">Abstract</a>  | 
 | 17:00 - 17:30 | 백지선 | On the extremal number of face-incidence graphs | <a href="#baek" class="lightLink">Abstract</a>   | 
 
@@ -49,12 +49,12 @@ layout: ko
 
 | Time     | Speaker | Content  | Notes | 
 |-------- |:------:  |-------|----|  
-|  | 좌장 | 서승현 |  |
+|  | 좌장 | 서승현 (강원대학교)|  |
 | 9:30 - 10:30 | 김동현 | Lusztig $q$ weight multiplicities via affine crystals |  <a href="#donghyunkim" class="lightLink">Abstract</a> |
 | 10:30 - 11:00 |    | coffee break  |    |
 | 11:00 - 11:30 | 송민호 | Combinatorics of orthogonal polynomials on the unit circle | <a href="#song" class="lightLink">Abstract</a>   | 
 | 11:30 - 13:30 |    | lunch  |  | 
-|  | 좌장 | 류미수  |  |
+|  | 좌장 | 류미수 (충북대학교) |  |
 | 13:30 - 14:30 | 김장수 | Enumeration of multiplex juggling card sequences using generalized $q$-derivatives | <a href="#jangsookim" class="lightLink">Abstract</a>   | 
 | 14:30 - 15:00 | 김동규 | Two ways to generalize matroids with coefficients | <a href="#donggyukim" class="lightLink">Abstract</a>   | 
 
