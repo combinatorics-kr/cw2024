@@ -10,6 +10,8 @@ layout: ko
 2024 조합론 학술대회는 8월 28일 오후에 시작하여 8월 30일 오후에 끝날 예정이고 초청 강연과 일반 강연이 있을 예정입니다. 
 청중에 외국인이 있는 경우 발표에 영어 사용을 권장합니다.
 
+<img src="/assets/2024combinatoricsworkshop.jpg" alt="단체사진" width="1050">
+
 ## 초청연사 
 
 - [김동현](https://donghyunkim8.wixsite.com/dhkim) (서울대학교)
