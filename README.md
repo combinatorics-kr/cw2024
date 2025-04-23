@@ -1,1 +1,2 @@
-# cw-2024.github.io
+# 2024 Combinatorics Workshop
+https://cw2024.combinatorics.kr
